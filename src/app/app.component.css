@@ -1,0 +1,13 @@
+.head{
+    color: blue;
+    font-size: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-div{
+    width: 200px;
+    height: 400px;
+    background-color: blueviolet;
+}
+.div3{
+    color: yellow;
+}
